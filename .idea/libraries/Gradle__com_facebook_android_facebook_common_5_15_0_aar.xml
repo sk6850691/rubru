@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.android:facebook-common:5.15.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e87a584fcec115ce976b0b00e42ce8ec/jetified-facebook-common-5.15.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e87a584fcec115ce976b0b00e42ce8ec/jetified-facebook-common-5.15.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e87a584fcec115ce976b0b00e42ce8ec/jetified-facebook-common-5.15.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6995f0c56878667220ae66ec5570e362/jetified-facebook-common-5.15.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6995f0c56878667220ae66ec5570e362/jetified-facebook-common-5.15.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6995f0c56878667220ae66ec5570e362/jetified-facebook-common-5.15.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/34c43ba220cadd5f760529392e9df054/jetified-facebook-common-5.15.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/34c43ba220cadd5f760529392e9df054/jetified-facebook-common-5.15.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/34c43ba220cadd5f760529392e9df054/jetified-facebook-common-5.15.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-common/5.15.0/ac806bd541ff1844df3cfcbd43ee968a913ce64c/facebook-common-5.15.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-common/5.15.0/b25507b937178a0c96571ebdc1bd39583beda4c1/facebook-common-5.15.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

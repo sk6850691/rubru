@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.polyak:icon-switch:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/92ef72382f5df6a3141350bc2134d50c/jetified-icon-switch-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/92ef72382f5df6a3141350bc2134d50c/jetified-icon-switch-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/92ef72382f5df6a3141350bc2134d50c/jetified-icon-switch-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/96db51cc47a88b1c8ad21a87a40ec972/jetified-icon-switch-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/96db51cc47a88b1c8ad21a87a40ec972/jetified-icon-switch-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/96db51cc47a88b1c8ad21a87a40ec972/jetified-icon-switch-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/362335a7ba6b5c6b47e4d8b2aaede687/jetified-icon-switch-1.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/362335a7ba6b5c6b47e4d8b2aaede687/jetified-icon-switch-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/362335a7ba6b5c6b47e4d8b2aaede687/jetified-icon-switch-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.polyak/icon-switch/1.0.0/156ffd584af77dfdf5f0af738731a5919eedd33d/icon-switch-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.polyak/icon-switch/1.0.0/f54445610b6696541fca633b5980f39eaad4b246/icon-switch-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

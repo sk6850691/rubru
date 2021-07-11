@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ittianyu:BottomNavigationViewEx:2.0.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f271ad759946f887533673e4b53ae2ed/jetified-BottomNavigationViewEx-2.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f271ad759946f887533673e4b53ae2ed/jetified-BottomNavigationViewEx-2.0.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f271ad759946f887533673e4b53ae2ed/jetified-BottomNavigationViewEx-2.0.4/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/60d72d2a508af296fbc817037dfadf09/jetified-BottomNavigationViewEx-2.0.4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/60d72d2a508af296fbc817037dfadf09/jetified-BottomNavigationViewEx-2.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/60d72d2a508af296fbc817037dfadf09/jetified-BottomNavigationViewEx-2.0.4/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0c4954355c1b3695a867e21dce726da9/jetified-BottomNavigationViewEx-2.0.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0c4954355c1b3695a867e21dce726da9/jetified-BottomNavigationViewEx-2.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0c4954355c1b3695a867e21dce726da9/jetified-BottomNavigationViewEx-2.0.4/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ittianyu/BottomNavigationViewEx/2.0.4/9d06b084a4c1c21e4a8a2c20868b4f2049544c9f/BottomNavigationViewEx-2.0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ittianyu/BottomNavigationViewEx/2.0.4/4a625175c2beaed42ef779aef650a18a615c129/BottomNavigationViewEx-2.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
